@@ -1,6 +1,6 @@
-# Percent
+# Percentage
 
-Here, null means that you'll be asked what percent to use. If you enter a number, it'll always be used, and you won't be asked anything.
+Here, null means that you'll be asked what percentage to use. If you enter a number, it'll always be used, and you won't be asked anything.
 
 # Consider last review date
 
@@ -8,4 +8,4 @@ There are two intervals we can consider. Either the interval between the due dat
 
 # Also change late cards
 
-Do you want to also change the due date of cards which are late? If you use a percent greater than 100, and that you consider last review date, some cards may stop being late. In every other case, this does not seems really interesting.
+Do you want to change the due date of cards which are late as well? If you use a percentage greater than 100, and that you consider last review date, some cards may stop being late. In every other case, this does not seems really interesting.
